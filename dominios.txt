@@ -3,4 +3,4 @@
 ! Home: https://github.com/romcinrad/adguard
 ! Descripción: Dominios bloqueados phishing
 
-||agendaculturalfederalcultura.weebly.com^
+||weebly.com^
