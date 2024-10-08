@@ -4,3 +4,5 @@
 ! Descripción: Dominios bloqueados phishing
 
 ||agendaculturalfederalcultura.weebly.com^
+||4corporate.ro^
+||api.cleverpush.com^
