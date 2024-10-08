@@ -1,4 +1,4 @@
-! Title: darnicmor - blocklist
+! Titulo: darnicmor - blocklist
 ! Expiración: nunca
 ! Home: https://github.com/romcinrad/adguard
 ! Descripción: Dominios bloqueados phishing
