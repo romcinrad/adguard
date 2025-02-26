@@ -6,5 +6,6 @@
 ||agendaculturalfederalcultura.weebly.com^
 ||4corporate.ro^
 ||api.cleverpush.com^
-||webmetainancecultura.weebly.com/^
-||bickel-sohn.de/^
+||webmetainancecultura.weebly.com^
+||bickel-sohn.de^
+||mkt.corazondevioleta.mx^
